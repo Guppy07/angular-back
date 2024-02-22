@@ -21,7 +21,7 @@ export class HeroComponent {
     this.name = 'Spiderman';
   }
   changeAge(): void {
-    this.age = 25;
+    this.age = 26;
   }
   resetForm(): void {
     this.name = 'ironman';
